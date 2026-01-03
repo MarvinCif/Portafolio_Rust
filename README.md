@@ -1,10 +1,8 @@
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/)
+
 # Portafolio Rust
 
-Propósito
----------
-Este repositorio recopila ejercicios en Rust organizados por niveles de aprendizaje. El objetivo es **exponer mi avance** conforme voy profundizando en el lenguaje (ownership, iteradores, smart pointers, concurrencia, async y temas low-level).
-
-## Ejecutar ejercicios (menú interactivo)
+## Ejecutar ejercicios en Codespaces (menú interactivo)
 
 En la terminal:
 
@@ -12,11 +10,11 @@ En la terminal:
 ./menu.sh
 ```
 
-Si por alguna razón no puede ejecutarse:
+Nota: `menu.sh` puede ejecutarse directamente en Codespaces; si por alguna razón no puede ejecutarlo, use `bash menu.sh`.
 
-```sh
-bash menu.sh
-```
+## Propósito
+
+Portafolio Rust recopila ejercicios en Rust organizados por niveles de aprendizaje. El objetivo es mostrar implementaciones pedagógicas y autocontenidas mientras se avanza en temas clave: ownership, iteradores, smart pointers, concurrencia, async y aspectos de bajo nivel.
 
 ## Ejecutar un ejercicio (directo con Cargo)
 
@@ -33,7 +31,7 @@ cargo run --example n1_01_enums_con_datos_ipaddr
 
 ## Nota sobre crates externos
 
-Algunos ejercicios mencionan crates comunes en entrevistas/proyectos (por ejemplo: `tokio`, `rayon`, `thiserror`). Cuando decida avanzar en esos ejercicios, agregaré dependencias en `Cargo.toml`.
+Algunos ejercicios mencionan crates comunes (`tokio`, `rayon`, `thiserror`, etc.). Cuando avance esos ejercicios, agregaré las dependencias necesarias en `Cargo.toml`.
 
 ## Lista de ejercicios (planeados)
 
