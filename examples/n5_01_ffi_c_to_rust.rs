@@ -7,7 +7,7 @@
 use portafolio_rust::print_header;
 
 fn main() {
-    print_header("N5-01", "FFI (C to Rust): extern "C"");
+    print_header("N5-01", "FFI (C to Rust): extern \"C\"");
 
 
 
