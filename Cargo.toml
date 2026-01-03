@@ -1,0 +1,12 @@
+[package]
+name = "portafolio_rust"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+# Nota:
+# - Los 100 ejercicios están en ./examples
+# - Ejecuta uno con: cargo run --example <nombre>
+
+[dependencies]
+
