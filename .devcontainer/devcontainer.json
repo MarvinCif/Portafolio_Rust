@@ -1,0 +1,12 @@
+{
+  "name": "Portafolio Rust - Codespaces",
+  "image": "mcr.microsoft.com/devcontainers/rust:1",
+  "postCreateCommand": "chmod +x ./menu.sh || true",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "rust-lang.rust-analyzer"
+      ]
+    }
+  }
+}
