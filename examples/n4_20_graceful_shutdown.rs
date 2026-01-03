@@ -14,8 +14,7 @@ use portafolio_rust::print_header;
 fn main() {
     print_header("N4-20", "Graceful shutdown: Ctrl+C");
 
-    // TODO: Implementa aquí tu solución.
-    // Sugerencia: crea funciones auxiliares y llámalas desde main.
+
 
     println!("TODO: resolver este ejercicio en examples/n4_20_graceful_shutdown.rs");
 }

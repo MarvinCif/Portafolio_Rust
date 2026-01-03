@@ -14,8 +14,7 @@ use portafolio_rust::print_header;
 fn main() {
     print_header("N4-08", "Rayon: paralelismo de datos");
 
-    // TODO: Implementa aquí tu solución.
-    // Sugerencia: crea funciones auxiliares y llámalas desde main.
+
 
     println!("TODO: resolver este ejercicio en examples/n4_08_rayon_par_iter.rs");
 }

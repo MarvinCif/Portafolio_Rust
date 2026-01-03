@@ -14,8 +14,7 @@ use portafolio_rust::print_header;
 fn main() {
     print_header("N4-15", "Tokio tasks: miles de tasks");
 
-    // TODO: Implementa aquí tu solución.
-    // Sugerencia: crea funciones auxiliares y llámalas desde main.
+
 
     println!("TODO: resolver este ejercicio en examples/n4_15_tokio_tasks.rs");
 }

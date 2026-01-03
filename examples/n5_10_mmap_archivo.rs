@@ -14,8 +14,7 @@ use portafolio_rust::print_header;
 fn main() {
     print_header("N5-10", "Mmap: mapear archivo gigante");
 
-    // TODO: Implementa aquí tu solución.
-    // Sugerencia: crea funciones auxiliares y llámalas desde main.
+
 
     println!("TODO: resolver este ejercicio en examples/n5_10_mmap_archivo.rs");
 }

@@ -14,8 +14,7 @@ use portafolio_rust::print_header;
 fn main() {
     print_header("N4-11", "Async hello: función async + runtime");
 
-    // TODO: Implementa aquí tu solución.
-    // Sugerencia: crea funciones auxiliares y llámalas desde main.
+
 
     println!("TODO: resolver este ejercicio en examples/n4_11_async_hello.rs");
 }

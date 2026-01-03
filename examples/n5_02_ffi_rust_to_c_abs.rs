@@ -14,8 +14,7 @@ use portafolio_rust::print_header;
 fn main() {
     print_header("N5-02", "FFI (Rust to C): llamar abs de C");
 
-    // TODO: Implementa aquí tu solución.
-    // Sugerencia: crea funciones auxiliares y llámalas desde main.
+
 
     println!("TODO: resolver este ejercicio en examples/n5_02_ffi_rust_to_c_abs.rs");
 }
