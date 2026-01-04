@@ -1,0 +1,14 @@
+// Enunciado: Await: dos llamadas async secuenciales
+// Nivel 4 · Ejercicio 12 (#72)
+//
+// Encadena dos llamadas async simuladas secuencialmente.
+
+
+use portafolio_rust::print_header;
+
+fn main() {
+    print_header("N4-12", "Await: dos llamadas async secuenciales");
+
+
+
+}
