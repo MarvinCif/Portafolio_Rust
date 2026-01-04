@@ -7,7 +7,7 @@
 
 # Portafolio Rust
 
-## `Ejecutar ejercicios en Codespaces (menu interactivo)`
+## `Github Codespaces`
 
 En la terminal:
 
