@@ -13,7 +13,10 @@ if [[ ! -d "examples" ]]; then
   exit 1
 fi
 
-mapfile -t EXAMPLES < <(find ./examples -maxdepth 1 -type f -name "*.rs" | sort)
+mapfile -t EXAMPLES < <(
+  find ./examples -type f -name "*.rs" \
+  | sort
+)
 
 if ((${#EXAMPLES[@]} == 0)); then
   echo "No se encontraron ejemplos en ./examples."
