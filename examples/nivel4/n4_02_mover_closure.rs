@@ -1,7 +1,6 @@
-// Enunciado: Move closures en hilos
+// Enunciado: Move closures en hilos -> Transfiere propiedad de un vector a un hilo usando move.
+// Autor: Marvin Cifuentes
 // Nivel 4 · Ejercicio 02 (#62)
-//
-// Transfiere propiedad de un vector a un hilo usando move.
 
 
 use portafolio_rust::print_header;

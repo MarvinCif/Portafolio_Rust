@@ -1,9 +1,6 @@
-// Enunciado: Graceful shutdown: Ctrl+C
+// Enunciado: Graceful shutdown: Ctrl+C -> Escuchar Ctrl+C y apagar servidor async limpiamente. Restricción del repo:
+// Autor: Marvin Cifuentes
 // Nivel 4 · Ejercicio 20 (#80)
-//
-// Escuchar Ctrl+C y apagar servidor async limpiamente.
-//
-// Restricción del repo:
 
 // Nota: este ejercicio puede requerir crates externos o APIs del sistema.
 // - Agrega: tokio = { version = "...", features = ["full"] } (o implementa un runtime mínimo).

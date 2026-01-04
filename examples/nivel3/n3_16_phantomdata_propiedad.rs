@@ -1,7 +1,6 @@
-// Enunciado: PhantomData: ownership fantasma
+// Enunciado: PhantomData: ownership fantasma -> Usa PhantomData para indicar posesión de T sin usarlo.
+// Autor: Marvin Cifuentes
 // Nivel 3 · Ejercicio 16 (#56)
-//
-// Usa PhantomData para indicar posesión de T sin usarlo.
 
 
 use portafolio_rust::print_header;

@@ -1,7 +1,6 @@
-// Enunciado: Panic Controlado: estado inconsistente
+// Enunciado: Panic Controlado: estado inconsistente -> Implementa un escenario donde panic! sea correcto vs Result.
+// Autor: Marvin Cifuentes
 // Nivel 1 · Ejercicio 12 (#12)
-//
-// Implementa un escenario donde panic! sea correcto vs Result.
 
 
 use portafolio_rust::print_header;

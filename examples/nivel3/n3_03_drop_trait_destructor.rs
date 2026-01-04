@@ -1,7 +1,6 @@
-// Enunciado: Drop Trait: destructor personalizado
+// Enunciado: Drop Trait: destructor personalizado -> Implementa código que se ejecute al salir de scope.
+// Autor: Marvin Cifuentes
 // Nivel 3 · Ejercicio 03 (#43)
-//
-// Implementa código que se ejecute al salir de scope.
 
 
 use portafolio_rust::print_header;

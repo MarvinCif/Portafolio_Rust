@@ -1,7 +1,6 @@
-// Enunciado: Actor pattern: canales
+// Enunciado: Actor pattern: canales -> Modelo de actores básico usando canales y hilos/tasks.
+// Autor: Marvin Cifuentes
 // Nivel 4 · Ejercicio 16 (#76)
-//
-// Modelo de actores básico usando canales y hilos/tasks.
 
 
 use portafolio_rust::print_header;

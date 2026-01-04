@@ -1,7 +1,6 @@
-// Enunciado: Peekable: mirar sin consumir
+// Enunciado: Peekable: mirar sin consumir -> Usa .peekable() para mirar el siguiente elemento sin consumirlo.
+// Autor: Marvin Cifuentes
 // Nivel 2 · Ejercicio 10 (#30)
-//
-// Usa .peekable() para mirar el siguiente elemento sin consumirlo.
 
 
 use portafolio_rust::print_header;

@@ -1,9 +1,6 @@
-// Enunciado: Mmap: mapear archivo gigante
+// Enunciado: Mmap: mapear archivo gigante -> Mapea archivo gigante en memoria para lectura rápida. Restricción del repo:
+// Autor: Marvin Cifuentes
 // Nivel 5 · Ejercicio 10 (#90)
-//
-// Mapea archivo gigante en memoria para lectura rápida.
-//
-// Restricción del repo:
 
 // Nota: este ejercicio puede requerir crates externos o APIs del sistema.
 // - Puedes usar memmap2 (crate) o APIs del SO con unsafe (según objetivo).

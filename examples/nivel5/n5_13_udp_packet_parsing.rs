@@ -1,7 +1,6 @@
-// Enunciado: UDP packet parsing: DNS
+// Enunciado: UDP packet parsing: DNS -> Parsea paquete DNS crudo con bitflags/shifting.
+// Autor: Marvin Cifuentes
 // Nivel 5 · Ejercicio 13 (#93)
-//
-// Parsea paquete DNS crudo con bitflags/shifting.
 
 
 use portafolio_rust::print_header;

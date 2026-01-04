@@ -1,7 +1,6 @@
-// Enunciado: Async streams: while let
+// Enunciado: Async streams: while let -> Procesa flujo asíncrono (concepto) con while let.
+// Autor: Marvin Cifuentes
 // Nivel 4 · Ejercicio 14 (#74)
-//
-// Procesa flujo asíncrono (concepto) con while let.
 
 
 use portafolio_rust::print_header;

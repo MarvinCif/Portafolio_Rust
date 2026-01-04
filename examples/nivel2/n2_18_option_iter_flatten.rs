@@ -1,7 +1,6 @@
-// Enunciado: Option Iter: flatten
+// Enunciado: Option Iter: flatten -> Convierte Vec<Option<i32>> en Vec<i32> eliminando None con flatten().
+// Autor: Marvin Cifuentes
 // Nivel 2 · Ejercicio 18 (#38)
-//
-// Convierte Vec<Option<i32>> en Vec<i32> eliminando None con flatten().
 
 
 use portafolio_rust::print_header;

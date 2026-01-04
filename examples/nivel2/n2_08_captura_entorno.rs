@@ -1,7 +1,6 @@
-// Enunciado: Captura de Entorno: closure mut
+// Enunciado: Captura de Entorno: closure mut -> Closure que capture una variable del entorno y la modifique (mut).
+// Autor: Marvin Cifuentes
 // Nivel 2 · Ejercicio 08 (#28)
-//
-// Closure que capture una variable del entorno y la modifique (mut).
 
 
 use portafolio_rust::print_header;

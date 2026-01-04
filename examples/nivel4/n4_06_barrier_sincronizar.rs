@@ -1,7 +1,6 @@
-// Enunciado: Barrier: sincronizar 5 hilos
+// Enunciado: Barrier: sincronizar 5 hilos -> Sincroniza 5 hilos para que ninguno avance hasta que todos lleguen.
+// Autor: Marvin Cifuentes
 // Nivel 4 · Ejercicio 06 (#66)
-//
-// Sincroniza 5 hilos para que ninguno avance hasta que todos lleguen.
 
 
 use portafolio_rust::print_header;

@@ -1,9 +1,6 @@
-// Enunciado: Rayon: paralelismo de datos
+// Enunciado: Rayon: paralelismo de datos -> Convierte iterador secuencial a paralelo con par_iter (requiere crate). Restricción del repo:
+// Autor: Marvin Cifuentes
 // Nivel 4 · Ejercicio 08 (#68)
-//
-// Convierte iterador secuencial a paralelo con par_iter (requiere crate).
-//
-// Restricción del repo:
 
 // Nota: este ejercicio puede requerir crates externos o APIs del sistema.
 // - Agrega: rayon = "..." y usa rayon::prelude::*

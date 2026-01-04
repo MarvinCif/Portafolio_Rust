@@ -1,7 +1,6 @@
-// Enunciado: Cell: mutación interior en Copy
+// Enunciado: Cell: mutación interior en Copy -> Usa Cell para tipos Copy con mutación interior sin RefCell.
+// Autor: Marvin Cifuentes
 // Nivel 3 · Ejercicio 10 (#50)
-//
-// Usa Cell para tipos Copy con mutación interior sin RefCell.
 
 
 use portafolio_rust::print_header;

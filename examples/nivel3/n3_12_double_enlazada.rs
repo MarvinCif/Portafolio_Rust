@@ -1,7 +1,6 @@
-// Enunciado: Double Linked List: boss final
+// Enunciado: Double Linked List: boss final -> Intenta implementar doble lista enlazada (Rc<RefCell> o unsafe).
+// Autor: Marvin Cifuentes
 // Nivel 3 · Ejercicio 12 (#52)
-//
-// Intenta implementar doble lista enlazada (Rc<RefCell> o unsafe).
 
 
 use portafolio_rust::print_header;

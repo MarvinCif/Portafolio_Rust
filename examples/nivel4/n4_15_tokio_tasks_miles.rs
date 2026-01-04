@@ -1,9 +1,6 @@
-// Enunciado: Tokio tasks: miles de tasks
+// Enunciado: Tokio tasks: miles de tasks -> Spawnea miles de tasks en Tokio (requiere crate). Restricción del repo:
+// Autor: Marvin Cifuentes
 // Nivel 4 · Ejercicio 15 (#75)
-//
-// Spawnea miles de tasks en Tokio (requiere crate).
-//
-// Restricción del repo:
 
 // Nota: este ejercicio puede requerir crates externos o APIs del sistema.
 // - Agrega: tokio = { version = "...", features = ["full"] } (o implementa un runtime mínimo).

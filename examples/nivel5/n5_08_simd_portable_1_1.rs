@@ -1,9 +1,6 @@
-// Enunciado: SIMD portable
+// Enunciado: SIMD portable -> Usa std::simd (nightly o crate) para sumar vectores. Restricción del repo:
+// Autor: Marvin Cifuentes
 // Nivel 5 · Ejercicio 08 (#88)
-//
-// Usa std::simd (nightly o crate) para sumar vectores.
-//
-// Restricción del repo:
 
 // Nota: este ejercicio puede requerir crates externos o APIs del sistema.
 // - std::simd puede requerir nightly; alternativa: crate portable-simd.

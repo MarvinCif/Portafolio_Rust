@@ -1,7 +1,6 @@
-// Enunciado: Iteradores Personalizados: Iterator para Contador
+// Enunciado: Iteradores Personalizados: Iterator para Contador -> Implementa Iterator para un struct Contador que cuente 1..=10.
+// Autor: Marvin Cifuentes
 // Nivel 2 · Ejercicio 09 (#29)
-//
-// Implementa Iterator para un struct Contador que cuente 1..=10.
 
 
 use portafolio_rust::print_header;

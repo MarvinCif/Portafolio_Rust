@@ -1,7 +1,6 @@
-// Enunciado: Atomic types: contador global
+// Enunciado: Atomic types: contador global -> Contador thread-safe con AtomicUsize sin Mutex.
+// Autor: Marvin Cifuentes
 // Nivel 4 · Ejercicio 07 (#67)
-//
-// Contador thread-safe con AtomicUsize sin Mutex.
 
 
 use portafolio_rust::print_header;

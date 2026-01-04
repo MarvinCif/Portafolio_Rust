@@ -1,7 +1,6 @@
-// Enunciado: If Let: refactorizar match
+// Enunciado: If Let: refactorizar match -> Refactoriza un match que solo busca un caso positivo usando if let.
+// Autor: Marvin Cifuentes
 // Nivel 1 · Ejercicio 09 (#9)
-//
-// Refactoriza un match que solo busca un caso positivo usando if let.
 
 
 use portafolio_rust::print_header;

@@ -1,7 +1,6 @@
-// Enunciado: Partition: separar en dos listas
+// Enunciado: Partition: separar en dos listas -> Separa una lista en dos según condición booleana en una pasada.
+// Autor: Marvin Cifuentes
 // Nivel 2 · Ejercicio 13 (#33)
-//
-// Separa una lista en dos según condición booleana en una pasada.
 
 
 use portafolio_rust::print_header;

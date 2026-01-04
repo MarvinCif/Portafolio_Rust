@@ -1,7 +1,6 @@
-// Enunciado: Embedded: no_std
+// Enunciado: Embedded: no_std -> Programa que compile con #![no_std] sin heap ni std.
+// Autor: Marvin Cifuentes
 // Nivel 5 · Ejercicio 15 (#95)
-//
-// Programa que compile con #![no_std] sin heap ni std.
 
 
 use portafolio_rust::print_header;

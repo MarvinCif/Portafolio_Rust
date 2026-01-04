@@ -1,7 +1,6 @@
-// Enunciado: Ownership Move: consumir String y devolverlo
+// Enunciado: Ownership Move: consumir String y devolverlo -> Función que toma ownership de String, lo modifica y lo devuelve.
+// Autor: Marvin Cifuentes
 // Nivel 1 · Ejercicio 04 (#4)
-//
-// Función que toma ownership de String, lo modifica y lo devuelve.
 
 
 use portafolio_rust::print_header;

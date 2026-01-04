@@ -1,7 +1,6 @@
-// Enunciado: Traits Derivados: Debug/PartialEq/Clone
+// Enunciado: Traits Derivados: Debug/PartialEq/Clone -> Crea un struct con derive(Debug, PartialEq, Clone). Demuestra qué pasa sin PartialEq.
+// Autor: Marvin Cifuentes
 // Nivel 1 · Ejercicio 15 (#15)
-//
-// Crea un struct con derive(Debug, PartialEq, Clone). Demuestra qué pasa sin PartialEq.
 
 
 use portafolio_rust::print_header;

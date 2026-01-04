@@ -1,7 +1,6 @@
-// Enunciado: TCP listener non-blocking
+// Enunciado: TCP listener non-blocking -> Servidor TCP básico usando std::net en modo no bloqueante.
+// Autor: Marvin Cifuentes
 // Nivel 5 · Ejercicio 12 (#92)
-//
-// Servidor TCP básico usando std::net en modo no bloqueante.
 
 
 use portafolio_rust::print_header;

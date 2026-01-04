@@ -1,7 +1,6 @@
-// Enunciado: Ring buffer: lock-free
+// Enunciado: Ring buffer: lock-free -> Cola circular segura entre hilos sin locks (concepto).
+// Autor: Marvin Cifuentes
 // Nivel 5 · Ejercicio 19 (#99)
-//
-// Cola circular segura entre hilos sin locks (concepto).
 
 
 use portafolio_rust::print_header;

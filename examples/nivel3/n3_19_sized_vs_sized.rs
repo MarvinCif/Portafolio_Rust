@@ -1,7 +1,6 @@
-// Enunciado: Sized vs ?Sized: trait objects
+// Enunciado: Sized vs ?Sized: trait objects -> Función que acepte Box<dyn Trait> entendiendo tamaño desconocido.
+// Autor: Marvin Cifuentes
 // Nivel 3 · Ejercicio 19 (#59)
-//
-// Función que acepte Box<dyn Trait> entendiendo tamaño desconocido.
 
 
 use portafolio_rust::print_header;

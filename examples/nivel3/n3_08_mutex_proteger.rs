@@ -1,7 +1,6 @@
-// Enunciado: Mutex: proteger dato compartido
+// Enunciado: Mutex: proteger dato compartido -> Protege dato compartido para acceso exclusivo por hilo.
+// Autor: Marvin Cifuentes
 // Nivel 3 · Ejercicio 08 (#48)
-//
-// Protege dato compartido para acceso exclusivo por hilo.
 
 
 use portafolio_rust::print_header;

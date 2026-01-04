@@ -1,7 +1,6 @@
-// Enunciado: Await: dos llamadas async secuenciales
+// Enunciado: Await: dos llamadas async secuenciales -> Encadena dos llamadas async simuladas secuencialmente.
+// Autor: Marvin Cifuentes
 // Nivel 4 · Ejercicio 12 (#72)
-//
-// Encadena dos llamadas async simuladas secuencialmente.
 
 
 use portafolio_rust::print_header;

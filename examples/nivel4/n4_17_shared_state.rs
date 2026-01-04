@@ -1,7 +1,6 @@
-// Enunciado: Shared state async: Arc<Mutex<HashMap>>
+// Enunciado: Shared state async: Arc<Mutex<HashMap>> -> Comparte Arc<Mutex<HashMap>> entre tareas async.
+// Autor: Marvin Cifuentes
 // Nivel 4 · Ejercicio 17 (#77)
-//
-// Comparte Arc<Mutex<HashMap>> entre tareas async.
 
 
 use portafolio_rust::print_header;

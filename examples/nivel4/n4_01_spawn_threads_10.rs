@@ -1,7 +1,6 @@
-// Enunciado: Spawn threads: 10 hilos + join
+// Enunciado: Spawn threads: 10 hilos + join -> Crea 10 hilos que impriman su ID y espera a que terminen.
+// Autor: Marvin Cifuentes
 // Nivel 4 · Ejercicio 01 (#61)
-//
-// Crea 10 hilos que impriman su ID y espera a que terminen.
 
 
 use portafolio_rust::print_header;

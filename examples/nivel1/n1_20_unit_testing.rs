@@ -1,7 +1,6 @@
-// Enunciado: Unit Testing: #[cfg(test)]
+// Enunciado: Unit Testing: #[cfg(test)] -> Escribe un módulo de pruebas dentro del mismo archivo usando #[cfg(test)].
+// Autor: Marvin Cifuentes
 // Nivel 1 · Ejercicio 20 (#20)
-//
-// Escribe un módulo de pruebas dentro del mismo archivo usando #[cfg(test)].
 
 
 use portafolio_rust::print_header;

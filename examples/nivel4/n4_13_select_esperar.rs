@@ -1,7 +1,6 @@
-// Enunciado: Select!: esperar primera promesa
+// Enunciado: Select!: esperar primera promesa -> Race controlada: espera a la primera de dos futures.
+// Autor: Marvin Cifuentes
 // Nivel 4 · Ejercicio 13 (#73)
-//
-// Race controlada: espera a la primera de dos futures.
 
 
 use portafolio_rust::print_header;

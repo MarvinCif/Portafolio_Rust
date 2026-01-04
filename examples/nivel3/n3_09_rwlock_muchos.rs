@@ -1,7 +1,6 @@
-// Enunciado: RwLock: muchos lectores/un escritor
+// Enunciado: RwLock: muchos lectores/un escritor -> Implementa RwLock y compara (conceptualmente) con Mutex.
+// Autor: Marvin Cifuentes
 // Nivel 3 · Ejercicio 09 (#49)
-//
-// Implementa RwLock y compara (conceptualmente) con Mutex.
 
 
 use portafolio_rust::print_header;

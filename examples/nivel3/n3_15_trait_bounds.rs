@@ -1,7 +1,6 @@
-// Enunciado: Trait Bounds: Display + PartialOrd
+// Enunciado: Trait Bounds: Display + PartialOrd -> Restringe función genérica a tipos Display y PartialOrd.
+// Autor: Marvin Cifuentes
 // Nivel 3 · Ejercicio 15 (#55)
-//
-// Restringe función genérica a tipos Display y PartialOrd.
 
 
 use portafolio_rust::print_header;

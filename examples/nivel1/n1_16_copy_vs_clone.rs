@@ -1,7 +1,6 @@
-// Enunciado: Copy vs Clone: int vs String
+// Enunciado: Copy vs Clone: int vs String -> Explica en código por qué int se copia y String requiere clone().
+// Autor: Marvin Cifuentes
 // Nivel 1 · Ejercicio 16 (#16)
-//
-// Explica en código por qué int se copia y String requiere clone().
 
 
 use portafolio_rust::print_header;

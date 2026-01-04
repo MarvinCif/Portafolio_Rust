@@ -1,7 +1,6 @@
-// Enunciado: Builder Pattern
+// Enunciado: Builder Pattern -> Implementa patrón Builder para config compleja.
+// Autor: Marvin Cifuentes
 // Nivel 3 · Ejercicio 17 (#57)
-//
-// Implementa patrón Builder para config compleja.
 
 
 use portafolio_rust::print_header;

@@ -1,7 +1,6 @@
-// Enunciado: FFI (C to Rust): extern "C"
+// Enunciado: FFI (C to Rust): extern "C" -> Expone función Rust para ser llamada desde C (extern "C").
+// Autor: Marvin Cifuentes
 // Nivel 5 · Ejercicio 01 (#81)
-//
-// Expone función Rust para ser llamada desde C (extern "C").
 
 
 use portafolio_rust::print_header;

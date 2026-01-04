@@ -1,7 +1,6 @@
-// Enunciado: Manejo de Errores (Result): división segura
+// Enunciado: Manejo de Errores (Result): división segura -> Crea una función de división segura que retorne Result<f64, String> en vez de crashear por cero.
+// Autor: Marvin Cifuentes
 // Nivel 1 · Ejercicio 02 (#2)
-//
-// Crea una función de división segura que retorne Result<f64, String> en vez de crashear por cero.
 
 
 use portafolio_rust::print_header;

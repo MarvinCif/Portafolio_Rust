@@ -1,7 +1,6 @@
-// Enunciado: Arc: atomic reference counting
+// Enunciado: Arc: atomic reference counting -> Comparte datos entre hilos de forma segura con Arc.
+// Autor: Marvin Cifuentes
 // Nivel 3 · Ejercicio 07 (#47)
-//
-// Comparte datos entre hilos de forma segura con Arc.
 
 
 use portafolio_rust::print_header;

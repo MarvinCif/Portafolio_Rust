@@ -1,7 +1,6 @@
-// Enunciado: Reto final: mini shell con pipes
+// Enunciado: Reto final: mini shell con pipes -> Shell: leer input, parsear comandos y ejecutar subprocesos con pipes |.
+// Autor: Marvin Cifuentes
 // Nivel 5 · Ejercicio 20 (#100)
-//
-// Shell: leer input, parsear comandos y ejecutar subprocesos con pipes |.
 
 
 use portafolio_rust::print_header;

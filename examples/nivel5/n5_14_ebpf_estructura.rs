@@ -1,7 +1,6 @@
-// Enunciado: eBPF: estructura básica (concepto)
+// Enunciado: eBPF: estructura básica (concepto) -> Estructura básica de programa eBPF en Rust (conceptual).
+// Autor: Marvin Cifuentes
 // Nivel 5 · Ejercicio 14 (#94)
-//
-// Estructura básica de programa eBPF en Rust (conceptual).
 
 
 use portafolio_rust::print_header;

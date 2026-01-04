@@ -1,7 +1,6 @@
-// Enunciado: Custom Display: std::fmt::Display
+// Enunciado: Custom Display: std::fmt::Display -> Implementa Display para imprimir user-friendly vs debug.
+// Autor: Marvin Cifuentes
 // Nivel 1 · Ejercicio 18 (#18)
-//
-// Implementa Display para imprimir user-friendly vs debug.
 
 
 use portafolio_rust::print_header;

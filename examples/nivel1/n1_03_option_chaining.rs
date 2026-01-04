@@ -1,7 +1,6 @@
-// Enunciado: Option Chaining: map + and_then
+// Enunciado: Option Chaining: map + and_then -> Usa map/and_then para manipular Option<String> sin match explícito ni unwrap.
+// Autor: Marvin Cifuentes
 // Nivel 1 · Ejercicio 03 (#3)
-//
-// Usa map/and_then para manipular Option<String> sin match explícito ni unwrap.
 
 
 use portafolio_rust::print_header;

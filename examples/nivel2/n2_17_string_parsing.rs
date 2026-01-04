@@ -1,7 +1,6 @@
-// Enunciado: String parsing funcional: CSV
+// Enunciado: String parsing funcional: CSV -> Parsea "juan,20,admin" usando iteradores y split.
+// Autor: Marvin Cifuentes
 // Nivel 2 · Ejercicio 17 (#37)
-//
-// Parsea "juan,20,admin" usando iteradores y split.
 
 
 use portafolio_rust::print_header;

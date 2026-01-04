@@ -1,9 +1,6 @@
-// Enunciado: FFI (Rust to C): llamar abs de C
+// Enunciado: FFI (Rust to C): llamar abs de C -> Llama a abs de libc desde Rust. Restricción del repo:
+// Autor: Marvin Cifuentes
 // Nivel 5 · Ejercicio 02 (#82)
-//
-// Llama a abs de libc desde Rust.
-//
-// Restricción del repo:
 
 // Nota: este ejercicio puede requerir crates externos o APIs del sistema.
 // - En Linux suele usarse el crate libc para enlazar con funciones C.

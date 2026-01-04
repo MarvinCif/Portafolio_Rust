@@ -1,7 +1,6 @@
-// Enunciado: RefCell: interior mutability
+// Enunciado: RefCell: interior mutability -> Muta un dato aparentemente inmutable usando RefCell.
+// Autor: Marvin Cifuentes
 // Nivel 3 · Ejercicio 05 (#45)
-//
-// Muta un dato aparentemente inmutable usando RefCell.
 
 
 use portafolio_rust::print_header;

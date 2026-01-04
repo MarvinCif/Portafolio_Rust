@@ -1,7 +1,6 @@
-// Enunciado: Unsafe pointer dereference
+// Enunciado: Unsafe pointer dereference -> Crea raw pointer y desreferéncialo dentro de unsafe.
+// Autor: Marvin Cifuentes
 // Nivel 5 · Ejercicio 03 (#83)
-//
-// Crea raw pointer y desreferéncialo dentro de unsafe.
 
 
 use portafolio_rust::print_header;

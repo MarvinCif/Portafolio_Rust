@@ -1,7 +1,6 @@
-// Enunciado: Weak: romper ciclos
+// Enunciado: Weak: romper ciclos -> Crea ciclo con Rc y rómpelo usando Weak para evitar fugas.
+// Autor: Marvin Cifuentes
 // Nivel 3 · Ejercicio 06 (#46)
-//
-// Crea ciclo con Rc y rómpelo usando Weak para evitar fugas.
 
 
 use portafolio_rust::print_header;

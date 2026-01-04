@@ -1,7 +1,6 @@
-// Enunciado: Chain: unir iteradores
+// Enunciado: Chain: unir iteradores -> Une dos iteradores de vectores distintos sin copiar datos.
+// Autor: Marvin Cifuentes
 // Nivel 2 · Ejercicio 11 (#31)
-//
-// Une dos iteradores de vectores distintos sin copiar datos.
 
 
 use portafolio_rust::print_header;

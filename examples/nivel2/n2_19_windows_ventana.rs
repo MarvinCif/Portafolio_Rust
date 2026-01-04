@@ -1,7 +1,6 @@
-// Enunciado: Windows: ventana deslizante
+// Enunciado: Windows: ventana deslizante -> Itera sobre un vector con ventanas de tamaño N.
+// Autor: Marvin Cifuentes
 // Nivel 2 · Ejercicio 19 (#39)
-//
-// Itera sobre un vector con ventanas de tamaño N.
 
 
 use portafolio_rust::print_header;

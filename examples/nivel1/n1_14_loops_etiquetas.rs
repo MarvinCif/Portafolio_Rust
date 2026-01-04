@@ -1,7 +1,6 @@
-// Enunciado: Loops con Etiquetas: break outer/inner
+// Enunciado: Loops con Etiquetas: break outer/inner -> Usa etiquetas para romper un bucle anidado específico.
+// Autor: Marvin Cifuentes
 // Nivel 1 · Ejercicio 14 (#14)
-//
-// Usa etiquetas para romper un bucle anidado específico.
 
 
 use portafolio_rust::print_header;

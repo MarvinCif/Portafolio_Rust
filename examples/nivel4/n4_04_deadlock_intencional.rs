@@ -1,7 +1,6 @@
-// Enunciado: Deadlock intencional
+// Enunciado: Deadlock intencional -> Crea deadlock con dos Mutex y explica cómo evitarlo.
+// Autor: Marvin Cifuentes
 // Nivel 4 · Ejercicio 04 (#64)
-//
-// Crea deadlock con dos Mutex y explica cómo evitarlo.
 
 
 use portafolio_rust::print_header;

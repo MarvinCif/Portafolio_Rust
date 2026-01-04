@@ -1,7 +1,6 @@
-// Enunciado: Condvar: esperar señal
+// Enunciado: Condvar: esperar señal -> Usa Condvar para que un hilo espere señal antes de continuar.
+// Autor: Marvin Cifuentes
 // Nivel 4 · Ejercicio 05 (#65)
-//
-// Usa Condvar para que un hilo espere señal antes de continuar.
 
 
 use portafolio_rust::print_header;

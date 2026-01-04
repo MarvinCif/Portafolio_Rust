@@ -1,9 +1,6 @@
-// Enunciado: Error handling global: AppError
+// Enunciado: Error handling global: AppError -> Enum AppError unificando IO/Parse/Red (thiserror concepto). Restricción del repo:
+// Autor: Marvin Cifuentes
 // Nivel 5 · Ejercicio 16 (#96)
-//
-// Enum AppError unificando IO/Parse/Red (thiserror concepto).
-//
-// Restricción del repo:
 
 // Nota: este ejercicio puede requerir crates externos o APIs del sistema.
 // - thiserror = "..." (si decides implementarlo con derive).

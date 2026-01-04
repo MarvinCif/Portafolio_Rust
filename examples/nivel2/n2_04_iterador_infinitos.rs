@@ -1,7 +1,6 @@
-// Enunciado: Iteradores infinitos: filtrar primos y take(5)
+// Enunciado: Iteradores infinitos: filtrar primos y take(5) -> Crea rango infinito 1.., filtra primos ingenuamente y toma primeros 5.
+// Autor: Marvin Cifuentes
 // Nivel 2 · Ejercicio 04 (#24)
-//
-// Crea rango infinito 1.., filtra primos ingenuamente y toma primeros 5.
 
 
 use portafolio_rust::print_header;

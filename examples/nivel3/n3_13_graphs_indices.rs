@@ -1,7 +1,6 @@
-// Enunciado: Graphs con indices: arena allocation
+// Enunciado: Graphs con indices: arena allocation -> Implementa grafo con Vec de nodos y punteros por índices usize.
+// Autor: Marvin Cifuentes
 // Nivel 3 · Ejercicio 13 (#53)
-//
-// Implementa grafo con Vec de nodos y punteros por índices usize.
 
 
 use portafolio_rust::print_header;

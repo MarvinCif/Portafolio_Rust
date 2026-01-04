@@ -1,7 +1,6 @@
-// Enunciado: Any y All: cortocircuito
+// Enunciado: Any y All: cortocircuito -> Verifica si algún o todos cumplen condición con any/all.
+// Autor: Marvin Cifuentes
 // Nivel 2 · Ejercicio 16 (#36)
-//
-// Verifica si algún o todos cumplen condición con any/all.
 
 
 use portafolio_rust::print_header;

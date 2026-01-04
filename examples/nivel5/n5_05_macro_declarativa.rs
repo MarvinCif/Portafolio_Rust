@@ -1,7 +1,6 @@
-// Enunciado: Macro declarativa: vec_strs!
+// Enunciado: Macro declarativa: vec_strs! -> Crea macro vec_strs!["a","b"] que devuelva Vec<String>.
+// Autor: Marvin Cifuentes
 // Nivel 5 · Ejercicio 05 (#85)
-//
-// Crea macro vec_strs!["a","b"] que devuelva Vec<String>.
 
 
 use portafolio_rust::print_header;

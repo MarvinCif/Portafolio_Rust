@@ -1,7 +1,6 @@
-// Enunciado: Send y Sync: tipo no-Send
+// Enunciado: Send y Sync: tipo no-Send -> Crea tipo que no sea Send y observa prohibición del compilador.
+// Autor: Marvin Cifuentes
 // Nivel 4 · Ejercicio 09 (#69)
-//
-// Crea tipo que no sea Send y observa prohibición del compilador.
 
 
 use portafolio_rust::print_header;

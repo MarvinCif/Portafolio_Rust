@@ -1,7 +1,6 @@
-// Enunciado: Find vs Position
+// Enunciado: Find vs Position -> Encuentra primer elemento que cumple condición y devuelve valor vs índice.
+// Autor: Marvin Cifuentes
 // Nivel 2 · Ejercicio 14 (#34)
-//
-// Encuentra primer elemento que cumple condición y devuelve valor vs índice.
 
 
 use portafolio_rust::print_header;

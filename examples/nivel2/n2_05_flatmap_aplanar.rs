@@ -1,7 +1,6 @@
-// Enunciado: FlatMap: aplanar Vec<Vec<i32>>
+// Enunciado: FlatMap: aplanar Vec<Vec<i32>> -> Aplana un Vec<Vec<i32>> en una sola secuencia.
+// Autor: Marvin Cifuentes
 // Nivel 2 · Ejercicio 05 (#25)
-//
-// Aplana un Vec<Vec<i32>> en una sola secuencia.
 
 
 use portafolio_rust::print_header;

@@ -1,7 +1,6 @@
-// Enunciado: Fold: suma con fold
+// Enunciado: Fold: suma con fold -> Implementa la suma de una lista usando .fold() en lugar de for.
+// Autor: Marvin Cifuentes
 // Nivel 2 · Ejercicio 02 (#22)
-//
-// Implementa la suma de una lista usando .fold() en lugar de for.
 
 
 use portafolio_rust::print_header;

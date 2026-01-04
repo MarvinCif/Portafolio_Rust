@@ -1,7 +1,6 @@
-// Enunciado: Futures manuales: implementar Future
+// Enunciado: Futures manuales: implementar Future -> Implementa trait Future manualmente para un timer simple.
+// Autor: Marvin Cifuentes
 // Nivel 4 · Ejercicio 19 (#79)
-//
-// Implementa trait Future manualmente para un timer simple.
 
 
 use portafolio_rust::print_header;

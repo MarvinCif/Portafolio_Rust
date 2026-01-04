@@ -1,7 +1,6 @@
-// Enunciado: Lazy Evaluation: nada hasta consumir
+// Enunciado: Lazy Evaluation: nada hasta consumir -> Demuestra que un iterador no hace nada hasta collect() u otro consumidor.
+// Autor: Marvin Cifuentes
 // Nivel 2 · Ejercicio 15 (#35)
-//
-// Demuestra que un iterador no hace nada hasta collect() u otro consumidor.
 
 
 use portafolio_rust::print_header;

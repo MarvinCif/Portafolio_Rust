@@ -1,7 +1,6 @@
-// Enunciado: Lifetimes Básicos: devolver &str más larga
+// Enunciado: Lifetimes Básicos: devolver &str más larga -> Función que toma dos &str y devuelve la más larga con lifetime explícito.
+// Autor: Marvin Cifuentes
 // Nivel 1 · Ejercicio 19 (#19)
-//
-// Función que toma dos &str y devuelve la más larga con lifetime explícito.
 
 
 use portafolio_rust::print_header;

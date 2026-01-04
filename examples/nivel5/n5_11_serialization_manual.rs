@@ -1,7 +1,6 @@
-// Enunciado: Serialization manual: JSON sin macros
+// Enunciado: Serialization manual: JSON sin macros -> Serialización manual a JSON sin macros (entender proceso).
+// Autor: Marvin Cifuentes
 // Nivel 5 · Ejercicio 11 (#91)
-//
-// Serialización manual a JSON sin macros (entender proceso).
 
 
 use portafolio_rust::print_header;

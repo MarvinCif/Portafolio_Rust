@@ -1,7 +1,6 @@
-// Enunciado: Pinning: por qué se necesita Pin
+// Enunciado: Pinning: por qué se necesita Pin -> Ejemplo que explique Pin por self-references en futures.
+// Autor: Marvin Cifuentes
 // Nivel 4 · Ejercicio 18 (#78)
-//
-// Ejemplo que explique Pin por self-references en futures.
 
 
 use portafolio_rust::print_header;

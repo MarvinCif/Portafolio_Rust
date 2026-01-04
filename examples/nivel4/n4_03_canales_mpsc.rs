@@ -1,7 +1,6 @@
-// Enunciado: Canales MPSC: productor-consumidor
+// Enunciado: Canales MPSC: productor-consumidor -> Implementa productor-consumidor con std::sync::mpsc.
+// Autor: Marvin Cifuentes
 // Nivel 4 · Ejercicio 03 (#63)
-//
-// Implementa productor-consumidor con std::sync::mpsc.
 
 
 use portafolio_rust::print_header;

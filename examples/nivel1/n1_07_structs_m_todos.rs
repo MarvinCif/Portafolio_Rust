@@ -1,7 +1,6 @@
-// Enunciado: Structs con Métodos: Rectangulo
+// Enunciado: Structs con Métodos: Rectangulo -> Implementa struct Rectangulo con métodos area y función asociada nuevo().
+// Autor: Marvin Cifuentes
 // Nivel 1 · Ejercicio 07 (#7)
-//
-// Implementa struct Rectangulo con métodos area y función asociada nuevo().
 
 
 use portafolio_rust::print_header;

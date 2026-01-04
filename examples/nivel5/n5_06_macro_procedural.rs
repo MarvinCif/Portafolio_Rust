@@ -1,7 +1,6 @@
-// Enunciado: Macro procedural (derive) esqueleto
+// Enunciado: Macro procedural (derive) esqueleto -> (Teórico) Esqueleto de cómo escribirías #[derive(ToJson)].
+// Autor: Marvin Cifuentes
 // Nivel 5 · Ejercicio 06 (#86)
-//
-// (Teórico) Esqueleto de cómo escribirías #[derive(ToJson)].
 
 
 use portafolio_rust::print_header;

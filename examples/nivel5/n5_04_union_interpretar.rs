@@ -1,7 +1,6 @@
-// Enunciado: Union: interpretar bytes como f32/u32
+// Enunciado: Union: interpretar bytes como f32/u32 -> Usa union para bit casting manual.
+// Autor: Marvin Cifuentes
 // Nivel 5 · Ejercicio 04 (#84)
-//
-// Usa union para bit casting manual.
 
 
 use portafolio_rust::print_header;

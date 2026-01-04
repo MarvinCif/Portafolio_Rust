@@ -1,7 +1,6 @@
-// Enunciado: Box: estructura recursiva
+// Enunciado: Box: estructura recursiva -> Crea una estructura recursiva (lista enlazada simple) usando Box.
+// Autor: Marvin Cifuentes
 // Nivel 3 · Ejercicio 01 (#41)
-//
-// Crea una estructura recursiva (lista enlazada simple) usando Box.
 
 
 use portafolio_rust::print_header;
