@@ -1,0 +1,14 @@
+# Cargo build artifacts
+/target/
+
+# Rustfmt backups
+**/*.rs.bk
+
+# IDE/editor
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
